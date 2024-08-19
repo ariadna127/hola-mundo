@@ -10,5 +10,5 @@ eu sou do :argentina:
 
 Actualizando unas lineas del readme
 
-Clase 1: Introduccion a bases de datos 
+Clase 1: Introduccion a bases de datos y GitHub: tags
 
