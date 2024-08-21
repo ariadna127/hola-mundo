@@ -14,5 +14,7 @@ Clase 1: Introduccion a bases de datos y GitHub: tags
 
 Clase 2 - Base de datos y github
 
+Nueva rama:  clase2DB-GitHUb
+
 comandos: dit clone - git pull
 
