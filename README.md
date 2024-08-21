@@ -12,3 +12,5 @@ Actualizando unas lineas del readme
 
 Clase 1: Introduccion a bases de datos y GitHub: tags
 
+Clase 2 - Base de datos y github
+
